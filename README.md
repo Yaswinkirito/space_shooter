@@ -2,6 +2,6 @@
 
 A Flutter flame space shooter game
 
-#play online
+# play online
 
 https://gdsc-project-1.web.app
